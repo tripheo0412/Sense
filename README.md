@@ -6,10 +6,6 @@ This is a React Native project aims to create a Social Platform linking to Maker
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [GALAX-SEE](https://github.com/tripheo0412/GALAX-SEE). 
-
 ## Authors
 
 * **Tri Hoang** - *Programmer* - [tripheo0412](https://github.com/tripheo0412/)
